@@ -1,0 +1,2 @@
+# magaz
+my first project
